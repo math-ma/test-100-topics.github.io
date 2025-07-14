@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "posts/wwelcome/index.html",
+    "href": "posts/wwelcome/index.html",
+    "title": "10 Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts.\n\nПервая вставка\nвот картинка"
+  },
+  {
+    "objectID": "posts/abc-def/save_index.html",
+    "href": "posts/abc-def/save_index.html",
+    "title": "11 Тупо создал новую папку",
+    "section": "",
+    "text": "скопировал сюда содержимое другой папки q скопировал сюда содержимое другой папки w скопировал сюда содержимое другой папки e скопировал сюда содержимое другой папки r скопировал сюда содержимое другой папки t"
+  },
+  {
+    "objectID": "posts/abc-def/save_index.html#кусочек-допишем",
+    "href": "posts/abc-def/save_index.html#кусочек-допишем",
+    "title": "11 Тупо создал новую папку",
+    "section": "кусочек допишем",
+    "text": "кусочек допишем\n\\(\\cos(\\alpha)+\\int_3^5 t^2\\, dt\\quad \\text{ перейдем } \\exp(5)\\)\nto continue"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "100-stoch-themEs-blog (topics ?)",
+    "section": "",
+    "text": "10 Welcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJul 15, 2025\n\n\nTristan O’Malley\n\n\n\n\n\n\n\n\n\n\n\n\n11 Тупо создал новую папку\n\n\n\nnews\n\ncode\n\nanalysis\n\nlatex\n\n\n\n\n\n\n\n\n\nJul 14, 2025\n\n\nс помощью Harlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\n11 Тупо создал новую папку\n\n\n\nnews\n\ncode\n\nanalysis\n\nlatex\n\n\n\n\n\n\n\n\n\nJul 14, 2025\n\n\nс помощью Harlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\n2 Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nJul 10, 2025\n\n\nHarlow Malloc\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog !!!"
+  },
+  {
+    "objectID": "posts/abc-def/index.html",
+    "href": "posts/abc-def/index.html",
+    "title": "11 Тупо создал новую папку",
+    "section": "",
+    "text": "скопировал сюда содержимое другой папки q скопировал сюда содержимое другой папки w скопировал сюда содержимое другой папки e скопировал сюда содержимое другой папки r скопировал сюда содержимое другой папки t\nсодержимое другой папки e скопировал сюда содержимое другой папки r скопировал сюда содержимое другой папки t"
+  },
+  {
+    "objectID": "posts/abc-def/index.html#кусочек-допишем",
+    "href": "posts/abc-def/index.html#кусочек-допишем",
+    "title": "11 Тупо создал новую папку",
+    "section": "кусочек допишем",
+    "text": "кусочек допишем\n\\(\\cos(\\alpha)+\\int_3^5 t^2\\, dt\\quad \\text{ перейдем } \\exp(5)\\)\nto continue\n\n\nтабличку\nпосмотрим, что можно написать лвоалвы вдажв строка\n\n\n\nстр 1\n\nстр 1\n\n\n\n\n\nколонка 2—фф\n\n\n\nопятьваолвы \\(\\beta\\)\n\n\n\n\n\n\n\n\n\n\n\nстр 3"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "2 Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\nкусочек допишем\n\\(\\alpha\\)\nДопустим"
+  }
+]
