@@ -1,0 +1,16 @@
+---
+title: "Welcome To My Blog"
+author: "Tristan O'Malley"
+date: "2025-07-12"
+categories: [news]
+---
+
+This is the first post in a Quarto blog. Welcome!
+
+![](thumbnail.jpg)
+
+Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+
+# Первая вставка
+
+вот картинка ![кофе](kofe_jeffrey_photo_2025-07-14_10-09-18.jpg)
