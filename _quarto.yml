@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "100-stoch-thems-blog"
+  title: "100-stoch-TOPICS-blog"
   navbar:
     right:
       - about.qmd

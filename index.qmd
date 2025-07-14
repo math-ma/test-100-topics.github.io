@@ -1,5 +1,5 @@
 ---
-title: "100-stoch-thems-blog"
+title: "100-stoch-themEs-blog (topics ?)"
 listing:
   contents: posts
   sort: "date desc"
